@@ -3,7 +3,7 @@
 This boilerplate will be your one of the best starting point for the react-native mobile application development using expo.
 
 ### Installation
-  - Clone/develop the solution to your local
+  - Clone/download the solution to your local
   - Open the directory in the command prompt
   - Run below commands
 ```sh
