@@ -1,4 +1,4 @@
-# react-native-tab-biolerplate
+# react-native-tab-boilerplate
 
 This boilerplate will be your one of the best starting point for the react-native mobile application development using expo.
 
