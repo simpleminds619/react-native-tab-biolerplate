@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 10812,
   "expoServerNgrokUrl": "https://py-5bh.bmssd.rn-expo-tab-biolerplate.exp.direct",
   "packagerNgrokUrl": "https://packager.py-5bh.bmssd.rn-expo-tab-biolerplate.exp.direct",
-  "ngrokPid": 16624,
+  "ngrokPid": 17392,
   "webpackServerPort": null
 }
